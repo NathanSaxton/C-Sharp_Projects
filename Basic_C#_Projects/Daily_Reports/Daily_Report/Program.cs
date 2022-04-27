@@ -15,7 +15,7 @@ class Program
         short pageNumber = Convert.ToInt16(Console.ReadLine()); //used a short because I haven't seen any of the previous courses I've taken go over 1500 pages
         
         Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");
-        string needHelp = Console.ReadLine(); //ask if the student needs help. I was unable to find a way to add radio buttons to the console app.
+        bool needHelp = Convert.ToBoolean(Console.ReadLine()); //ask if the student needs help. I was unable to find a way to add radio buttons to the console app.
         
         Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
         string posExp = Console.ReadLine();//ask the student if they had any positive experiences
