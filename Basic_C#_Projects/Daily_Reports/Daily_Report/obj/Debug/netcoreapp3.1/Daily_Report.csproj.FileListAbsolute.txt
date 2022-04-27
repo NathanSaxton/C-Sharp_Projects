@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\bin\Debug\netcoreapp3.1\Daily_Report.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Daily_Reports\Daily_Report\obj\Debug\netcoreapp3.1\Daily_Report.genruntimeconfig.cache
