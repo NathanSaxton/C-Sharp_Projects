@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\bin\Debug\netcoreapp3.1\Comparison_Operators.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Math_and_Comparison_Operators\obj\Debug\netcoreapp3.1\Comparison_Operators.genruntimeconfig.cache
