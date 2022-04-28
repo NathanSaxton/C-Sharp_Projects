@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\bin\Debug\netcoreapp3.1\Boolean_Logic.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Boolean_Logic\obj\Debug\netcoreapp3.1\Boolean_Logic.genruntimeconfig.cache
