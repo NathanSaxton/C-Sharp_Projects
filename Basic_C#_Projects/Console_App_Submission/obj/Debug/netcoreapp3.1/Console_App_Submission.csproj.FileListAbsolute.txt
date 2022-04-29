@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\bin\Debug\netcoreapp3.1\Console_App_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Console_App_Submission\obj\Debug\netcoreapp3.1\Console_App_Submission.genruntimeconfig.cache
