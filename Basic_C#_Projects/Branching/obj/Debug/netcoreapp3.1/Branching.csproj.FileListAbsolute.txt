@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\bin\Debug\netcoreapp3.1\Branching.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Branching\obj\Debug\netcoreapp3.1\Branching.genruntimeconfig.cache
