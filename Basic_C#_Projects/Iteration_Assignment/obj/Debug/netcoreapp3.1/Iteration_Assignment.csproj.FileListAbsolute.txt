@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\bin\Debug\netcoreapp3.1\Iteration_Assignment.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Iteration_Assignment\obj\Debug\netcoreapp3.1\Iteration_Assignment.genruntimeconfig.cache
