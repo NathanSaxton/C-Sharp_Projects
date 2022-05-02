@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\bin\Debug\netcoreapp3.1\Strings_And_Integers.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Strings_And_Integers\obj\Debug\netcoreapp3.1\Strings_And_Integers.genruntimeconfig.cache
