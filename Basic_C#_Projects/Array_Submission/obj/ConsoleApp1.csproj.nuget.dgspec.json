@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\Array_Submission\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\Array_Submission\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\Array_Submission\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\Array_Submission\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Nathan-Programming-Stuff\\Projects\\C-Sharp_Projects\\Basic_C#_Projects\\Array_Submission\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
