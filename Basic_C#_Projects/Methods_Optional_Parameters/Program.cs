@@ -22,6 +22,12 @@ namespace Methods_Optional_Parameters
             }
             Console.WriteLine("Here is the result: " + result);//display results
 
+
+
+            Class2NameParams nameParams = new Class2NameParams();//created a new class and instantiated it
+
+            nameParams.NameParams(numba1: 2, numba2: 3);//call the class method and specified the parameter's by name. 
+
             Console.ReadLine();
         }
     }
