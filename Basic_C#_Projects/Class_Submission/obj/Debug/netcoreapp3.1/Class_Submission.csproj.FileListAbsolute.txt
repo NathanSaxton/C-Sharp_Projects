@@ -1,0 +1,13 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\bin\Debug\netcoreapp3.1\Class_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Class_Submission\obj\Debug\netcoreapp3.1\Class_Submission.genruntimeconfig.cache
