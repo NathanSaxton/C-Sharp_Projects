@@ -41,12 +41,12 @@ namespace Abstract_Class
             }
         }
 
-        public override int GetHashCode()
+        public override int GetHashCode()//added to remove errors per documentation
         {
             return 0;
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object obj)//added to remove erros per documentation
         {
             return true;
         }
