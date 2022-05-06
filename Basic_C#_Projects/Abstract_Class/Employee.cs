@@ -17,7 +17,7 @@ namespace Abstract_Class
         {
             Console.WriteLine(firstName + " said they quit.");
         }
-        public static Employee operator== (Employee employee1, Employee employee2)//overloading the == operator
+        public static Employee operator == (Employee employee1, Employee employee2)//overloading the == operator
         {
             if (employee1.Id == employee2.Id)
             {
@@ -30,7 +30,7 @@ namespace Abstract_Class
 
         }
 
-        public static Employee operator!= (Employee employee1, Employee employee2)
+        public static Employee operator != (Employee employee1, Employee employee2)
         {
             if (employee1.Id != employee2.Id)
             {
@@ -39,6 +39,16 @@ namespace Abstract_Class
             {
                 return employee1;//display employee1 if they are the same
             }
+        }
+
+        public override int GetHashCode()
+        {
+            return 0;
+        }
+
+        public override bool Equals(object obj)
+        {
+            return true;
         }
     }
 }
