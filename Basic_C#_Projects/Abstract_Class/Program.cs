@@ -10,6 +10,10 @@ namespace Abstract_Class
 
             employee.SayName();//call the say name method
 
+            IQuittable james = new Employee() { firstName = "James", lastName = "Martin" };//instantiate an IQuittable object using polymorphism
+
+            james.Quit();//call the Quit method through the polymorphed object
+
             Console.ReadLine();
         }
     }
