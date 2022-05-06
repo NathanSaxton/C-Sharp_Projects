@@ -10,12 +10,12 @@ namespace Abstract_Class
 
         public override void SayName()//override the abstract method SayName
         {
-            Console.WriteLine(firstName + " " + lastName);
+            Console.WriteLine(FirstName + " " + LastName);
         }
         
         public void Quit()//implement the Quit method from the interface. 
         {
-            Console.WriteLine(firstName + " said they quit.");
+            Console.WriteLine(FirstName + " said they quit.");
         }
         public static Employee operator == (Employee employee1, Employee employee2)//overloading the == operator
         {
