@@ -17,28 +17,15 @@ namespace Abstract_Class
         {
             Console.WriteLine(FirstName + " said they quit.");
         }
-        public static Employee operator == (Employee employee1, Employee employee2)//overloading the == operator
+        public static bool operator == (Employee employee1, Employee employee2)//overloading the == operator
         {
-            if (employee1.Id == employee2.Id)
-            {
-                return employee1;//display employee1 if they are the same
-            }
-            else
-            {
-                return employee2;//display employee2 if they are different
-            }
+            return employee1.Id == employee2.Id;//return true if Id's match
 
         }
 
-        public static Employee operator != (Employee employee1, Employee employee2)
+        public static bool operator != (Employee employee1, Employee employee2)//overloading the != operator
         {
-            if (employee1.Id != employee2.Id)
-            {
-                return employee2;//display employee2 if they are different
-            } else
-            {
-                return employee1;//display employee1 if they are the same
-            }
+            return employee1.Id != employee2.Id;//return true if Id's don't match
         }
 
         public override int GetHashCode()//added to remove errors per documentation
