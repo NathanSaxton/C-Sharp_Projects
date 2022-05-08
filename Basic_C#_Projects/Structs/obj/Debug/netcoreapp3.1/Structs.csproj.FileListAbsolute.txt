@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache
