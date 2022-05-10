@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\bin\Debug\netcoreapp3.1\Input.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Input\obj\Debug\netcoreapp3.1\Input.genruntimeconfig.cache
