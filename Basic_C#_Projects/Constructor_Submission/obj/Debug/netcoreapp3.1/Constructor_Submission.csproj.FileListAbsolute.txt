@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\bin\Debug\netcoreapp3.1\Constructor_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\Constructor_Submission\obj\Debug\netcoreapp3.1\Constructor_Submission.genruntimeconfig.cache
