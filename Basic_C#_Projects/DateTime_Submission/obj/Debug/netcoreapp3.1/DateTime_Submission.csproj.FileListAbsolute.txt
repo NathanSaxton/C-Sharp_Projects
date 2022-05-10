@@ -1,0 +1,14 @@
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.exe
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.deps.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.runtimeconfig.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.runtimeconfig.dev.json
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\bin\Debug\netcoreapp3.1\DateTime_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.csproj.AssemblyReference.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.AssemblyInfoInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.AssemblyInfo.cs
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.csproj.CoreCompileInputs.cache
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.dll
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.pdb
+E:\Nathan-Programming-Stuff\Projects\C-Sharp_Projects\Basic_C#_Projects\DateTime_Submission\obj\Debug\netcoreapp3.1\DateTime_Submission.genruntimeconfig.cache
